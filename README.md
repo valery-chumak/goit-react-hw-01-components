@@ -1,6 +1,10 @@
-1 - Профиль социальной сети
+**Task**
+**1 - Профиль социальной сети
 2- Секция статистики
-3 - Список друзей
+3 - Список друзей**
+
+
+
 **Read in other languages: [Русский](README.md), [Polska](README.pl.md).**
 
 # React homework template
